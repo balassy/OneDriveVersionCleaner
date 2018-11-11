@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDriveVersionCleaner", "OneDriveVersionCleaner\OneDriveVersionCleaner.csproj", "{02D4ACEF-1D25-416C-9FCA-24D82C9DA269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D4ACEF-1D25-416C-9FCA-24D82C9DA269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D4ACEF-1D25-416C-9FCA-24D82C9DA269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D4ACEF-1D25-416C-9FCA-24D82C9DA269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D4ACEF-1D25-416C-9FCA-24D82C9DA269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DF489E-DE41-4C71-A9FB-C54963389FAA}
+	EndGlobalSection
+EndGlobal
